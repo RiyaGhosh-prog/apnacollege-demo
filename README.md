@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my project.
 <br>
-Author- Riya
+Author- Riya (Sikkim manipal institute of college)
